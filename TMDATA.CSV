@@ -115,13 +115,13 @@ Reading FC,Reading,,,,,,,,,,,,,,,,,,,,England,,0,14,9,0,0,Berkshire,The Madejski
 Rotherham United,Rotherham,,,,,,,,,,,,,,,,,,,,England,,0,13,23,0,0,Yorkshire,New York Stadium,12021,12021,10,8,8,442N,DRCT,WHI,RED,BLU,BLA,ED2,ED1,24,250,0,0,0,1,0,0,1,0
 Shrewsbury Town,Shrewsbury,,,,,,,,,,,,,,,,,,,,England,,0,20,20,0,0,Staffordshire,New Meadow,9875,9875,6,7,7,442N,LONG,VLORA,BLU,WHI,ORA,ED2,ED2,19,220,0,0,0,1,0,0,1,0
 Stevenage FC,Stevenage,,,,,,,,,,,,,,,,,,,,England,,0,10,11,0,0,Hertfordshire,Broadhall Way,6722,6722,3,6,6,442N,LONG,WHI,RED,LCYA,BLA,ED2,ED2,9,90,0,0,0,1,0,0,1,0
-Stockport County,Stockport,,,,,,,,,,,,,,,,,,,,England,,0,16,24,0,0,Manchester,Edgeley Park,10841,10841,3,4,0,,PASS,WHI,BLU,WHI,GRY,ED2,ED3,1,50,0,0,0,0,0,0,1,0
+Stockport County,Stockport,,,,,,,,,,,,,,,,,,,,England,,0,16,24,0,0,Manchester,Edgeley Park,10841,10841,3,4,0,442N,DRCT,WHI,BLU,WHI,GRY,ED2,ED3,1,50,0,0,0,0,0,0,1,0
 Wigan Athletic,Wigan,,,,,,,,,,,,,,,,,,,,England,,0,18,25,0,0,Manchester,DW Stadium,25138,25138,12,14,10,442N,PASS,WHI,BLU,WHI,BLA,ED2,ED2,12,500,0,0,0,1,0,0,1,0
-Wrexham,Wrexham,,,,,,,,,,,,,,,,,,,,England,,0,20,22,0,0,Clwyd,Racehorse Ground,15500,10500,5,6,0,,PASS,WHI,RED,WHI,VLTRQ,ED2,ED3,2,50,0,0,0,0,0,0,1,0
+Wrexham,Wrexham,,,,,,,,,,,,,,,,,,,,England,,0,20,22,0,0,Clwyd,Racehorse Ground,15500,10500,5,6,0,442N,DRCT,WHI,RED,WHI,VLTRQ,ED2,ED3,2,50,0,0,0,0,0,0,1,0
 Wycombe Wanderers,Wycombe,,,,,,,,,,,,,,,,,,,,England,,0,13,10,0,0,London,Adams Park,9617,9617,5,7,7,442N,LONG,VDBLU,CYA,BLA,RED,ED2,ED2,10,150,0,0,0,1,0,0,1,0
 Accrington Stanley,Accrington Stanley,,,,,,,,,,,,,,,,,,,,England,,0,0,0,0,0,Merseyside,The Crown Ground,5057,2000,3,7,7,442N,LONG,WHI,RED,RED,WHI,ED3,ED3,17,100,0,0,0,1,0,0,1,0
-AFC Wimbledon,Wimbledon,,,,,,,,,,,,,,,,,,,,England,,0,10,8,0,0,South London,Kingsmeadow,4850,2265,4,7,7,442N,DRCT,YEL,BLU,BLU,YEL,ED3,ED3,10,100,0,0,0,1,0,0,1,0
-Barrow A.F.C.,Barrow,,,,,,,,,,,,,,,,,,,,England,,0,24,30,0,0,Cumbria,Holker Street,4416,1000,1,4,0,,DRCT,DBLU,WHI,WHI,DBLU,ED3,ED3,8,100,0,0,0,0,0,0,1,0
+AFC Wimbledon,AFC Wimbledon,,,,,,,,,,,,,,,,,,,,England,,0,10,8,0,0,South London,Kingsmeadow,4850,2265,4,7,7,442N,DRCT,YEL,BLU,BLU,YEL,ED3,ED3,10,100,0,0,0,1,0,0,1,0
+Barrow A.F.C.,Barrow,,,,,,,,,,,,,,,,,,,,England,,0,24,30,0,0,Cumbria,Holker Street,4416,1000,1,4,0,442N,DRCT,DBLU,WHI,WHI,DBLU,ED3,ED3,8,100,0,0,0,0,0,0,1,0
 Bradford City,Bradford,,,,,,,,,,,,,,,,,,,,England,,0,14,26,0,0,Yorkshire,Valley Parade,25136,25136,16,7,7,442N,DRCT,BLA,VLWIN,VLWIN,VDBLU,ED3,ED3,9,140,0,0,0,1,0,0,1,0
 Bromley,Bromley,,,,,,,,,,,,,,,,,,,,England,,0,8,9,0,0,South London,Hayes Lane,5000,1300,1,4,0,442N,PASS,BLA,WHI,BLA,RED,ED3,ENL,0,50,0,0,0,0,0,0,1,0
 Carlisle United,Carlisle,,,,,,,,,,,,,,,,,,,,England,,0,17,35,0,0,Carlisle,Brunton Park,18202,18202,5,6,6,442N,LONG,WHI,LBLU,YEL,BLA,ED3,ED2,24,110,0,0,0,1,0,0,1,0

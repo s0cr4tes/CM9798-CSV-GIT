@@ -143,7 +143,7 @@ Steven,Gerrard,England,4,Liverpool,80,80,120,,,,02.98,,,0,55
 Darren,Moore,England,12,,130,0,120,442A,PASS,Sheff Wed,7.97,,,0,0
 Paolo,Zanetti,Italy,6,,128,0,120,442N,PASS,Venezia,06.97,,,0,100
 Bruno,Lage,Scotland,2,Celtic,127,0,120,,PASS,,12.95,,,0,50
-Mark,Bowen,Eire,6,Tottenham,120,0,120,433N,DRCT,Wimbledon,03.92,,,0,100
+Mark,Bowen,Eire,6,Tottenham,120,0,120,433N,DRCT,,03.92,,,0,100
 Steve,Bruce,England,6,,100,0,120,442N,DRCT,W.B.A.,2.97,,,0,60
 Laurent,Peyrelade,France,7,,0,119,119,433N,DRCT,Rodez,,,01.97,0,32
 Eugenio,Corini,Italy,10,Bari,101,93,119,442N,PASS,Brescia,08.97,,,0,0
@@ -301,7 +301,7 @@ Gaizka,Garitano,Spain,6,Real Sociedad,80,70,70,532N,LONG,Eibar,7.95,,,0,80
 Markus,Weinzierl,Germany,0,,70,60,70,,,Augsburg,,,,0,0
 Darrell,Clarke,England,10,Port Vale,100,0,70,,,Port Vale,03.84,,,0,100
 Jon,Brady,England,4,,0,0,70,,,Northampton,01.95,,,0,0
-Johnnie,Jackson,England,4,,100,0,70,,DRCT,Charlton,,,,0,0
+Johnnie,Jackson,England,4,,100,0,70,,DRCT,AFC Wimbledon,,,,0,0
 Ricardo Manuel,da Silva Sá Pinto,Portugal,0,,0,0,70,532N,PASS,Moreirense,,,,0,50
 Rui,Ferreira,Portugal,0,,0,0,70,532N,PASS,Feirense,07.97,,,0,65
 Carmine,Gautieri,Italy,6,,50,99,69,352SW,DRCT,,,,01.97,0,55
