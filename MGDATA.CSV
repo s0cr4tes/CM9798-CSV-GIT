@@ -1,0 +1,518 @@
+First Name,Second Name,Nation,Yrs in Game,Favoured Club,Motivating Ability,Judgement,Reputation,Formation,Style,Current Club,Date Joined,National Job,Date Started,Playing,Board Conf
+Pep,Guardiola,Spain,10,Barcelona,195,195,200,532N,DRCT,Man City,02.98,,,0,100
+Massimiliano,Allegri,Italy,10,Napoli,195,160,192,442A,PASS,Juventus,07.94,,,0,100
+Jürgen,Klopp,England,4,Liverpool,190,185,190,532A,CONT,Liverpool,01.94,,,0,100
+Thomas,Tuchel,Germany,5,Bayern Munich,188,175,190,442A,PASS,Bayern Munich,02.98,,,0,68
+Julian,Nagelsmann,Germany,1,Chelsea,187,170,190,,,,,,,0,67
+Carlo,Ancelotti,Italy,19,Milan,190,170,185,DIAN,PASS,Real Madrid,7.97,,,0,90
+Luis Enrique,Martínez García,Spain,9,Barcelona,155,165,185,AJAX,PASS,,01.96,Spain,,0,75
+Xavier,Hernández Creus,Spain,10,Barcelona,177,188,180,AJAX,PASS,Barcelona,7.97,,,0,95
+Mauricio,Pochettino,Argentina,4,Chelsea,160,170,178,442N,CONT,Chelsea,06.96,,,0,75
+Hansi,Flick,Germany,4,Bayern Munich,185,178,175,CMSN,,,01.96,Germany,,0,89
+Roberto,Mancini,Italy,9,Man City,150,175,175,442A,DRCT,,01.96,,,0,83
+Fernando,Santos,Portugal,8,,140,175,175,532N,PASS,,01.96,Portugal,,0,72
+Roberto,Martínez,Spain,9,,130,175,175,442N,DRCT,,01.96,Belgium,,0,34
+Marco,Rose,Germany,7,Parma,168,169,171,532A,PASS,Dortmund,06.97,,,0,100
+José,Mourinho,Portugal,7,Chelsea,185,190,170,433N,CONT,,06.97,,,0,100
+Eddie,Howe,Scotland,5,Celtic,180,170,170,442N,PASS,Newcastle,1.97,,,0,100
+Louis,van Gaal,Netherlands,25,Ajax,180,170,170,451D,LONG,,01.96,Holland,,0,74
+Didier,Deschamps,France,8,Juventus,185,170,170,CMSN,PASS,,01.96,France,,0,94
+Diego,Simeone,Argentina,9,Inter,180,165,170,442N,PASS,Atletico Madrid,07.97,,,0,85
+Gareth,Southgate,England,9,Aston Villa,145,152,170,352N,PASS,,01.96,England,,0,87
+Giovanni,Van Bronckhorst,Netherlands,6,Ajax,150,130,170,532N,DRCT,Rangers,,,,0,90
+Maurizio,Sarri,Italy,10,Sampdoria,168,172,169,433N,PASS,,6.97,,,0,100
+Simone,Inzaghi,Italy,7,Juventus,168,169,165,532N,PASS,Inter,06.97,,,0,100
+Rúben,Amorim,Portugal,3,,30,165,165,532A,CONT,Sporting CP,,,01.97,0,39
+Mikel,Arteta,Spain,10,Barcelona,155,160,165,442N,DRCT,Arsenal,09.96,,,0,90
+Antonio,Conte,Italy,10,Juventus,175,160,165,442N,PASS,,11.97,,,0,65
+Manuel,Pellegrini,Chile,23,,170,180,160,442N,PASS,Betis,07.97,,,0,90
+Erik,ten Hag,England,6,Man Utd,160,175,170,,PASS,Man Utd,07.97,,,0,100
+Domenico,Tedesco,Italy,3,,0,160,160,CMSN,CONT,,,,01.97,0,84
+Stefano,Pioli,Italy,6,Napoli,165,150,158,442A,CONT,Milan,06.97,,,0,100
+Sebastian,Hoeneß,Germany,3,,130,155,155,532A,LONG,Hoffenheim,,,01.97,0,55
+Adi,Hütter,Austria,5,,50,155,155,451D,DRCT,Gladbach,,,01.97,0,44
+Kasper,Hjulmand,Denmark,1,,150,155,155,442A,PASS,,01.96,Denmark,,0,78
+Giovanni,Stroppa,Italy,20,Torino,129,120,155,433N,PASS,,01.97,,,0,100
+Giuseppe,Iachini,Italy,2,Milan,140,149,149,442A,PASS,,05.96,,,0,100
+Tom,Van Imschoot,Belgium,5,Anderlecht,139,158,148,442N,PASS,Lierse,07.97,,,0,76
+Pepe,Bordalás,Spain,10,,130,127,146,442N,PASS,Valencia,,,,0,0
+Arne,Slot,Netherlands,5,Feyenoord,170,175,145,433VA,PASS,Feyenoord,11.97,,,0,0
+Sinisa,Mihajlovic,Italy,15,Sampdoria,145,150,145,433N,PASS,,07.94,,,0,100
+Hein,Vanhaezebrouck,Netherlands,9,Beveren,143,148,145,442N,PASS,Gent,07.97,,,0,72
+Óscar,García,Spain,7,,170,145,145,AJAX,LONG,Reims,,,01.97,0,43
+Pascal,Jansen,Netherlands,7,Feyenoord,165,130,145,433VA,PASS,AZ,07.97,,,0,100
+Brian,Eastick,Belgium,10,Anderlecht,138,152,142,442N,PASS,Lommel,07.96,,,0,70
+Marco,Giampaolo,Argentina,16,River Plate,131,142,142,442A,PASS,,06.97,,,0,100
+Roger,Schmidt,Germany,14,Benfica,150,165,140,442A,PASS,PSV,12.94,,,0,100
+Tim,Walter,Germany,0,Rostock,165,150,140,,,Hamburg,,,,0,0
+Joan,Ferrer,Spain,8,,120,110,105,442A,PASS,,,,01.97,0,19
+Mike,Büskens,Netherlands,0,Schalke 04,155,150,140,,,Schalke 04,,,,0,0
+Luciano,Spalletti,Italy,9,Roma,160,149,140,532N,PASS,,06.97,Italy,,0,100
+Gerardo,Seoane,Germany,0,,150,145,140,,,Leverkusen,,,,0,0
+Ruud,Van Nistelroy,Netherlands,1,PSV,155,145,140,,,,,,,0,0
+Michel,Der Zakarian,Armenia,4,,130,140,140,442A,PASS,Brest,,,01.97,0,9
+Jesse,Marsch,USA,7,Crystal Palace,130,140,140,,DRCT,Leeds,8.96,,,0,80
+Quique,Sánchez Flores,Spain,1,,100,140,140,442A,LONG,Getafe,,,01.97,0,61
+Ryan,Giggs,Wales,5,Man Utd,60,140,140,AJAX,PASS,,01.96,Wales,,0,49
+Florian,Kohfeldt,Germany,6,,150,140,140,532A,PASS,Wolfsburg,,,01.97,0,10
+Marcelino,García Toral,France,5,Paris-SG,145,140,140,352N,CONT,Athletic Bilbao,06.96,,,0,100
+Unai,Emery,Spain,8,Arsenal,155,140,140,442D,LONG,Aston Villa,4.97,,,0,80
+Imanol,Alguacil,Spain,8,,160,140,140,532N,CONT,Real Sociedad,7.97,,,0,90
+Christian,Streich,Germany,0,Freiburg,140,135,140,,,Freiburg,,,,0,0
+Andoni,Iraola,Spain,12,Athletic Bilbao,110,100,140,352N,PASS,Bournemouth,7.97,,,0,100
+Pascal,Gastien,France,1,,10,136,136,442N,LONG,Clermont,,,01.97,0,10
+Ralf,Rangnick,Germany,12,Schalke 04,120,160,135,442N,PASS,,11.86,Austria,,0,65
+Gian Piero,Gasperini,Italy,8,Torino,167,156,135,532N,PASS,Atalanta,06.95,,,0,100
+Markku,Kanerva,Finland,9,,0,144,135,DIAN,LONG,,01.96,Finland,,0,46
+Jorge,Sampaoli,France,11,Marseille,145,140,135,442N,CONT,Marseille,06.97,,,0,80
+Philippe,Clément,France,4,Marseille,135,140,135,442N,CONT,Monaco,06.95,,,0,95
+Thomas,Reis,Germany,0,,155,140,135,,,Bochum,,,,0,0
+Graham,Potter,England,4,Chelsea,120,135,135,532A,DRCT,,02.98,,,0,65
+Alexander,Wehrle,Germany,7,,0,135,135,532N,LONG,,,,01.97,0,34
+Jörg,Jakobs,Germany,4,,0,135,135,532N,CONT,,,,01.97,0,7
+Pellegrino,Matarazzo,Germany,0,Stuttgart,120,125,135,,,Stuttgart,,,,0,0
+Fatih,Terim,Turkey,22,Galatasaray,180,120,135,,,,,Turkey,,0,72
+Frank,Lampard,England,7,Chelsea,120,105,135,442N,PASS,,7.97,,,0,60
+Brendan,Rodgers,Northern Ireland,12,Celtic,130,0,135,,DRCT,Leicester,12.95,,,0,100
+Alessio,Dionisi,Italy,3,,70,135,133,CMSN,CONT,Sassuolo,,,01.97,0,36
+Dick,Schreuder,Netherlands,1,,0,132,132,433N,PASS,PEC Zwolle,,,01.97,0,73
+Vincent,Hognon,France,1,,150,131,131,442A,CONT,Grenoble,,,01.97,0,10
+Christian,Eichner,Germany,0,Karlsruhe,150,150,130,,,Karlsruhe,,,,0,0
+Massimo,Oddo,Italy,2,Treviso,160,149,130,442A,CONT,Padova,06.97,,,0,100
+Eduardo,Coudet,Spain,10,,160,140,130,442D,LONG,Celta,07.97,,,0,75
+Vasco,Seabra,Portugal,3,FC Porto,120,140,130,442D,PASS,Marítimo,,,,0,50
+Oliver,Glasner,Bosnia,0,,135,130,130,,,Crystal Palace,,,,0,0
+Vahid,Halilhodzic,Yugoslavia,9,,0,130,130,AJAX,LONG,,01.96,Morocco,,0,49
+Gabriele,Cioffi,Italy,8,,120,130,130,352SW,PASS,Udinese,06.95,,,0,100
+Sérgio,Conceição,Portugal,12,FC Porto,150,130,130,442A,PASS,FC Porto,07.96,,,0,100
+Mário,Silva,Portugal,5,Sporting Lisbon,160,130,130,442N,PASS,Santa Clara,,,,0,80
+Brian,Priske,Germany,34,Antwerp,142,122,130,352N,PASS,Antwerp,07.96,,,0,77
+Ole,Werner,Germany,0,,120,122,130,,,Werder Bremen,,,,0,0
+Felix,Magath,Germany,0,,110,120,130,,,Berlin,,,,0,0
+Patrick,Vieira,France,2,Arsenal,140,120,130,,,,06.97,,,0,60
+John,McGlynn,Northern Ireland,2,,0,0,130,,,Raith Rovers,07.97,,,0,30
+Ivan,Juric,Croatia,5,,90,139,129,442N,LONG,Torino,,,01.97,0,41
+Igor,Tudor,Croatia,6,Piacenza,146,133,129,352SW,DRCT,Lazio,06.96,,,0,59
+Steve,Clarke,Scotland,5,,110,129,129,352N,DRCT,,01.96,Scotland,,0,43
+Aurelio,Andreazzoli,Italy,2,,140,158,127,442N,PASS,Empoli,06.95,,,0,100
+Bernd,Storck,Belgium,15,Lokeren,127,139,126,352N,PASS,Genk,07.95,,,0,70
+Jordi,Condom,Spain,9,,0,126,126,CMSN,DRCT,Waasland-Beveren,,,01.97,0,76
+Steffen,Baumgart,Germany,6,,150,145,125,442N,CONT,1.FC Köln,,,01.97,0,4
+Vicente,Moreno,Spain,7,Real Madrid,150,140,125,442N,CONT,Espanyol,7.97,,,0,90
+Werner,Wolf,Germany,5,,0,125,125,AJAX,DRCT,,,,01.97,0,90
+Jean-Marc,Furlan,France,36,Auxerre,140,123,125,433N,PASS,Auxerre,06.61,,,0,100
+Edward,Still,Belgium,21,Ajax,0,135,123,442N,PASS,Charleroi,07.97,,,0,82
+Didier,Tholot,France,6,,60,123,123,442N,PASS,Pau,,,01.97,0,13
+Nélson,Veríssimo,Scotland,6,Middlesbrough,100,132,122,442N,PASS,SL Benfica,11.97,,,0,100
+José,Jeunechamps,Belgium,8,Club Brugge,133,123,122,442N,DRCT,Mouscron,07.97,,,0,79
+Marc,Brys,Belgium,5,,0,122,122,433N,DRCT,OHL,,,01.97,0,79
+Armando,Evangelista,Portugal,3,,0,121,121,AJAX,DRCT,Arouca,,,01.97,0,71
+Pedro,Filipe,Portugal,11,,150,160,120,,,,,,,0,0
+Xabi,Alonso,Spain,1,Real Madrid,145,150,120,,,,,,,0,0
+Lionel,Scaloni,Argentina,3,Real Madrid,135,150,120,,,,,Argentina,,0,80
+Senol,Gunes,Turkey,19,Trabzon,145,140,120,,,Besiktas,,,,0,0
+Luís,Freire,Portugal,0,,150,140,120,442N,PASS,Rio Ave,,,,0,90
+Kevin,Hofland,Netherlands,12,,140,140,120,CMSN,PASS,Willem II,07.97,,,0,90
+Cristian,Brocchi,Italy,5,Ravenna,135,140,120,442N,PASS,Vicenza,06.94,,,0,100
+Franclim,Pereira da Silva Maia Carvalho,Portugal,10,,160,140,120,442N,PASS,Belenenses,10.97,,,0,0
+Vasco,Faísca,Spain,9,Barcelona,150,140,120,442N,PASS,Farense,04.89,,,0,80
+Ryan,Mason,England,1,Tottenham,135,135,120,,,,,,,0,0
+Okan,Buruk,Turkey,3,Galatasaray,130,135,120,,,Galatasaray,,,,0,0
+Andriy,Shevchenko,Ukraine,4,Milan,140,135,120,,,,,Ukraine,,0,0
+Marcello,Gallardo,Argentina,3,Deportivo,130,134,120,,,River Plate,,,,0,0
+Edwin,de Graaf,Germany,7,,140,130,120,AJAX,PASS,NAC,07.97,,,0,100
+Sergio,González Soriano,Spain,2,,120,130,120,352SW,LONG,Cadiz,,,01.97,0,85
+Peter,Schäferhoff,Germany,3,,10,130,120,433N,CONT,,,,01.97,0,33
+Davide,Nicola,Italy,3,Foggia,129,130,120,442A,CONT,Salernitana,06.97,,,0,100
+Harald,Cerny,Austria,2,,0,130,120,532N,DRCT,,,,01.97,0,12
+Niko,Romm,Germany,6,,0,130,120,532A,DRCT,,,,01.97,0,27
+Christophe,Galtier,France,3,Paris-SG,140,130,120,CMSN,PASS,Nice,09.97,,,0,80
+Max,Weuthen,Germany,3,,0,125,120,532A,DRCT,,,,01.97,0,7
+Paul,Klein,Germany,5,,0,125,120,352SW,PASS,,,,01.97,0,53
+Hannes,Dold,Germany,9,,0,125,120,442N,PASS,,,,01.97,0,63
+Christian,Osebold,Germany,3,,0,125,120,DIAN,PASS,,,,01.97,0,57
+Martin,Schulz,Germany,1,,0,125,120,352N,PASS,,,,01.97,0,41
+André,Pawlak,Germany,7,,0,125,120,AJAX,LONG,,,,01.97,0,39
+Uwe,Gospodarek,Germany,2,,0,123,120,451D,PASS,,,,01.97,0,49
+Alfred,Schreuder,Belgium,5,Ajax,155,120,120,433N,DRCT,Club Brugge,7.97,,,0,89
+Leif,Frach,Germany,0,,0,120,120,442D,LONG,,,,01.97,0,70
+Joseba,Etxeberria,Spain,7,,0,120,120,532VD,LONG,Mirandés,,,01.97,0,54
+Thiago,Motta,Italy,8,Inter,145,152,170,442A,DRCT,Bologna,,,01.97,0,85
+Stephen,Kelly,Eire,7,,125,110,120,,,,,Eire,,0,70
+Steven,Gerrard,England,4,Liverpool,80,80,120,,,,02.98,,,0,55
+Darren,Moore,England,12,,130,0,120,442A,PASS,Sheff Wed,7.97,,,0,0
+Paolo,Zanetti,Italy,6,,128,0,120,442N,PASS,Venezia,06.97,,,0,100
+Bruno,Lage,Scotland,2,Celtic,127,0,120,,PASS,,12.95,,,0,50
+Mark,Bowen,Eire,6,Tottenham,120,0,120,433N,DRCT,Wimbledon,03.92,,,0,100
+Steve,Bruce,England,6,,100,0,120,442N,DRCT,W.B.A.,2.97,,,0,60
+Laurent,Peyrelade,France,7,,0,119,119,433N,DRCT,Rodez,,,01.97,0,32
+Eugenio,Corini,Italy,10,Bari,101,93,119,442N,PASS,Brescia,08.97,,,0,0
+Silvio,Baldini,Italy,14,Cremonese,128,116,118,532N,LONG,Palermo,06.97,,,0,100
+Michele,Mignani,Italy,10,Lazio,125,140,117,442D,PASS,Bari,01.96,,,0,89
+Patrice,Garande,France,2,,160,116,116,CMSN,DRCT,Dijon,,,01.97,0,74
+Ron,Jans,Germany,27,,140,155,115,442A,DRCT,Twente,01.96,,,0,100
+Xisco,Muñoz,Spain,4,,150,125,115,451D,PASS,Huesca,,,01.97,0,68
+Romain,Revelli,France,8,,0,115,115,451D,DRCT,Dunkerque,,,01.97,0,82
+Jens,Härtel,Germany,0,,110,115,115,,,Rostock,,,,0,0
+Jean-Louis,García,France,1,,40,115,115,532VD,PASS,Seraing,,,01.97,0,61
+Ricardo,Sousa,Portugal,7,,0,114,114,DIAN,CONT,Mafra,,,01.97,0,94
+Pablo,Correa,Uruguay,7,,0,113,113,442D,LONG,Virton,,,01.97,0,51
+Ricardo,Chéu,Portugal,7,,0,112,112,442A,CONT,Est. Amadora,,,01.97,0,30
+César,Peixoto,Portugal,6,,0,112,112,CMSN,LONG,Paços de Ferreira,,,01.97,0,60
+Alexander,Blessin,Italy,14,Bari,123,96,112,352SW,DRCT,Genoa,06.97,,,0,100
+Miguel Ángel,Sánchez Muñoz,Spain,3,,120,111,111,442N,DRCT,Girona,,,01.97,0,56
+Jurgen,Streppel,Netherlands,5,Ajax,170,160,110,,PASS,Roda JC,01.97,,,0,100
+Matthias,Jaissle,Germany,1,Bayern Munich,140,160,110,,DRCT,Salzburg,,,,0,0
+Gomes,da Silva,Portugal,13,Porto,140,150,110,442A,PASS,Académica,01.98,,,0,70
+Julián,Calero,Spain,2,,0,140,110,451D,LONG,Burgos,,,01.97,0,91
+Adenor,Tite,Brazil,22,Santos,140,135,110,,PASS,,,Brazil,,0,85
+Vincent,Kompany,Belgium,13,Man City,110,130,110,442D,PASS,Burnley,11.97,,,0,80
+David,Artell,England,12,Crewe,55,120,110,,DRCT,Crewe,06.83,,,0,100
+Francisco José,Rodrigues da Costa,Portugal,15,,140,120,110,442D,PASS,Nacional,07.97,,,0,0
+Lukas,Berg,Germany,1,,0,110,110,451D,LONG,,,,01.97,0,22
+Julen,Lopetegui,Spain,11,,110,100,110,442N,PASS,Sevilla,01.98,,,0,70
+Bo,Svensson,Germany,0,,100,100,110,,,Mainz,,,,0,0
+Ange,Postecoglou,England,10,Tottenham,145,145,135,433N,PASS,Tottenham,7.97,,,0,90
+Steve,Cooper,England,10,Wimbledon,120,0,110,433N,DRCT,,8.96,,,0,0
+Jonas,De Roeck,Belgium,20,Lommel,130,125,109,442N,PASS,Westerlo,06.96,,,0,61
+Roberto,Stellone,Italy,11,,103,110,109,442D,LONG,Reggina,06.97,,,0,100
+Attilio,Tesser,Italy,10,Udinese,76,107,109,442N,PASS,Modena,06.97,,,0,100
+Vincenzo,Italiano,Italy,5,Chievo,135,103,109,433N,PASS,Fiorentina,06.97,,,0,100
+Fabio,Pecchia,Italy,3,Inter,110,102,109,442D,DRCT,Cremonese,06.97,,,0,100
+Cristiano,Scazzola,Italy,9,Ancona,100,124,108,442D,PASS,Piacenza,06.97,,,0,100
+Alex,Pastoor,Netherlands,1,,120,108,108,532N,CONT,Almere City,,,01.97,0,53
+Ole,Tobiasen,Netherlands,13,Heerenveen,160,155,105,433VA,PASS,Heerenveen,07.85,,,0,100
+Jon Andoni,Pérez Alonso,France,6,,10,140,105,442A,PASS,Ponferradina,,,01.97,0,96
+Graham,Arnold,Australia,7,,30,104,104,442A,LONG,,01.96,Australia,,0,71
+Filipe,Gouveia,Portugal,8,,0,104,104,532A,CONT,Vilafranquense,,,01.97,0,3
+Antonio,Folha,Portugal,8,,0,102,102,532A,PASS,Porto B,,,01.97,0,53
+Giovanni,Franken,France,1,,0,102,102,532VD,CONT,ADO Den Haag,,,01.97,0,36
+Roberto,De Zerbi,Italy,3,Milan,135,140,125,,DRCT,Brighton,,,,0,0
+Marco,Silva,Portugal,2,Chelsea,140,140,100,442N,PASS,Fulham,9.97,,,0,0
+Francisco,Rodríguez,Spain,3,,40,135,100,442A,CONT,Elche,,,01.97,0,45
+Walter,Mazzarri,Italy,8,,120,129,100,442D,PASS,Cagliari,06.97,,,0,100
+Jurgen,Klinsmann,Germany,11,,110,120,100,,,,,South Korea,,0,0
+Javier,Aguirre,Argentina,5,,80,120,100,442A,PASS,Mallorca,07.97,,,0,80
+Dean,Smith,England,3,,65,120,100,,,Norwich,6.96,,,0,70
+Denis,Huckestein,Germany,1,,0,120,100,352SW,LONG,,,,01.97,0,43
+Thomas,Kessler,Germany,0,,0,115,100,352N,LONG,,,,01.97,0,91
+Frank,Kramer,Germany,0,,160,110,100,,,Bielefeld,,,,0,0
+Nuno,Félix,Portugal,1,,0,110,100,532A,DRCT,,,,01.97,0,38
+Fabio,Caserta,Italy,2,,10,104,100,442A,DRCT,Benevento,,,01.97,0,30
+Alex,Neil,England,5,Everton,160,100,100,,DRCT,Sunderland,03.95,,,0,100
+Robert,Klauß,Germany,0,,100,100,100,,,Nürnberg,,,,0,0
+Luis Miguel,Ramis,Spain,11,,120,100,100,433N,PASS,Tenerife,02.98,,,0,75
+Liam,Manning,England,9,,100,100,100,532VD,LONG,MK Dons,,,01.97,0,46
+Daniel,Thioune,Germany,0,,100,90,100,,,Düsseldorf,,,,0,0
+Wayne,Rooney,England,12,,110,90,100,,DRCT,Derby,06.95,,,0,75
+Lee,Bowyer,England,5,Birmingham,90,90,100,,,Birmingham,5.96,,,0,35
+Shaun,Maloney,Scotland,2,Aberdeen,120,0,100,,,Hibernian,,,,0,0
+Chris,Wilder,England,2,,0,0,100,442A,PASS,Sheff Utd,05.94,,,0,80
+John,Sheridan,England,8,,100,0,100,,,Oldham,6.96,,,0,0
+Ralph,Hasenhüttl,England,3,Everton,0,0,100,,,Southampton,06.97,,,0,75
+Mark,Robins,Scotland,1,Leeds,145,0,100,,,Coventry,8.96,,,0,50
+Armando,Teixeira,Portugal,5,,120,0,100,442A,PASS,Boavista,04.96,,,0,50
+Wouter,Vrancken,Belgium,5,Anderlecht,125,140,99,442N,DRCT,KV Mechelen,06.97,,,0,73
+Fabio,Grosso,Italy,1,,120,122,99,532N,PASS,Frosinone,,,01.97,0,97
+Edoardo,Gorini,Italy,1,,130,102,99,CMSN,DRCT,Cittadella,,,01.97,0,46
+Luca,D'Angelo,Italy,7,,30,105,98,442A,LONG,Pisa,,,01.97,0,97
+Luciano,Zauri,Italy,8,,100,127,97,442N,PASS,Pescara,06.97,,,0,100
+Luciano,De Paola,Italy,2,,98,108,96,442D,LONG,Lecco,06.97,,,0,100
+Alex,Czerniatynski,Belgium,7,,0,96,96,CMSN,DRCT,Olympic Charleroi,,,01.97,0,82
+Rubén,Albés,Spain,3,,160,135,95,442A,PASS,Lugo,,,01.97,0,85
+Luis Miguel,Carrión,Spain,4,,130,126,95,532VD,DRCT,Cartagena,,,01.97,0,88
+Stéphane,Dumont,France,13,Le Mans,80,125,95,442D,PASS,Guingamp,06.92,,,0,100
+Frédéric,Antonetti,France,8,Metz,60,115,95,442N,CONT,Metz,06.89,,,0,95
+Giacomo,Gattuso,Italy,3,,115,101,95,442N,PASS,Como,06.97,,,0,100
+Marco,Baroni,Italy,1,Atalanta,103,117,93,532A,PASS,Lecce,06.97,,,0,100
+Patrick,Witters,Belgium,4,,0,92,92,CMSN,CONT,Thes Sport,,,01.97,0,70
+Stéphane,Demets,Belgium,2,,0,92,92,532N,PASS,Heist,,,01.97,0,92
+Francesco,Modesto,Italy,0,,20,64,92,DIAN,PASS,Crotone,,,01.97,0,76
+Henk,de Jong,Netherlands,27,,130,130,90,DIAN,CONT,Cambuur,01.95,,,0,65
+Frank,Schmidt,Germany,5,,0,120,90,532VD,PASS,Heidenheim,,,01.97,0,28
+Paco,Jémez,Spain,2,,50,120,90,442D,LONG,Ibiza,,,01.97,0,31
+José Rojo,Martín,Spain,1,,10,118,90,CMSN,PASS,Valladolid,,,01.97,0,69
+Timmy,Simons,Belgium,7,,0,115,90,451D,CONT,Zulte-Waregem,,,01.97,0,20
+Kevin,McKenna,Canada,0,,135,110,90,AJAX,DRCT,,,,01.97,0,12
+Steve,Evans,Scotland,5,,100,110,90,532A,DRCT,Stevenage,,,01.97,0,58
+Stefan,Leitl,Germany,0,,85,80,90,,,Greuther Fürth,,,,0,0
+David,Moyes,England,5,West Ham,110,75,90,442N,PASS,West Ham,08.94,,,0,45
+Mark,Warburton,Scotland,5,Arsenal,120,0,90,,,Q.P.R.,8.96,,,0,60
+Grant,McCann,England,7,,120,0,90,433VA,PASS,Peterborough,6.96,,,0,0
+Poya,Asbaghi,Northern Ireland,1,Sheff Wed,120,0,90,442N,PASS,Barnsley,06.94,,,0,100
+Paul,Heckingbottom,England,0,Chelsea,0,0,90,532N,PASS,,08.97,,,0,0
+Roy,Hodgson,England,15,Watford,0,0,90,,DRCT,Watford,05.97,,,0,0
+Massimiliano,Alvini,Italy,18,Genoa,115,150,89,442D,PASS,Perugia,06.97,,,0,100
+Roberto,Venturato,Italy,5,,100,87,89,442A,LONG,,,,01.97,0,11
+Aimo,Diana,Italy,10,,84,79,89,442A,LONG,Reggiana,01.97,,,0,80
+Zdenek,Zeman,Italy,3,Torino,96,105,87,433N,CONT,Foggia,06.97,,,0,100
+Moreno,Longo,Italy,4,,127,102,86,442A,CONT,Alessandria,06.97,,,0,100
+Cristiano,Lucarelli,Italy,1,,120,128,85,AJAX,DRCT,Ternana,,,01.97,0,90
+Thomas,Letsch,Netherlands,6,,130,120,85,AJAX,PASS,Vitesse,01.97,,,0,70
+Paul,Hartley,Scotland,6,,50,100,85,AJAX,LONG,,,,01.97,0,99
+Pedro,Miguel,Portugal,0,,0,0,85,532N,PASS,Varzim,,,,0,70
+Pedro Ricardo,Torres Ribeiro,Portugal,0,,0,0,85,442D,PASS,Académico Viseu,,,,0,90
+Bruno,Tedino,Italy,4,,50,77,84,442A,PASS,Pordenone,,,01.97,0,0
+Fran,Fernández,Spain,9,,160,108,81,433N,LONG,Alcorcón,,,01.97,0,98
+José Ángel,Ziganda,Spain,3,Oviedo,130,160,80,442N,CONT,Oviedo,7.97,,,0,70
+Bob,Peeters,Netherlands,5,ADO Den Haag,140,140,80,,,TOP Oss,07.97,,,0,90
+Rick,Kruys,Netherlands,3,,150,130,80,433N,DRCT,Utrecht,12.97,,,0,70
+Mersad,Selimbegovic,Yugoslavia,2,,0,120,80,442A,PASS,Regensburg,,,01.97,0,5
+Lukas,Kwasniok,Germany,3,,0,120,80,532VD,LONG,Paderborn,,,01.97,0,78
+Marcel,Rapp,Germany,7,,0,120,80,433VA,PASS,Kiel,,,01.97,0,51
+Torsten,Lieberknecht,Germany,6,,140,120,80,433N,CONT,Darmstadt,,,01.97,0,63
+Francisco,Chaló,Portugal,3,,90,111,80,CMSN,CONT,,,,01.97,0,94
+Paul,Warne,England,5,,10,110,80,AJAX,DRCT,Rotherham,,,01.97,0,82
+Juan Ignacio,Martínez,Spain,5,Zaragoza,80,90,80,442N,CONT,Zaragoza,4.97,,,0,60
+Timo,Schultz,Germany,0,St. Pauli,80,80,80,,,St. Pauli,,,,0,0
+Paul,Le Guen,France,3,Paris-SG,40,65,80,433N,PASS,Le Havre,06.97,,,0,70
+Ricardo,Soares,Portugal,0,,0,0,80,442D,PASS,Gil Vicente,07.97,,,0,85
+Sean,Dyche,England,0,Newcastle,0,0,80,,PASS,Everton,7.97,,,0,70
+Bruno,Pinheiro,Portugal,0,,0,0,80,532N,PASS,Estoril,,,,0,60
+Andrea,Sottil,Italy,5,,124,93,79,442A,CONT,Ascoli,06.97,,,0,100
+Gianluca,Colavitto,Italy,2,,94,90,79,442D,PASS,Ancona,,,,0,80
+Ian,Murray,Scotland,3,Hearts,0,0,79,,,Airdrie,,,,0,0
+Ivan,Javorcic,Croatia,3,,20,108,78,442N,PASS,Südtirol,,,01.97,0,54
+Natxo,González,France,9,,60,105,78,352SW,DRCT,Malaga,,,01.97,0,69
+William,Viali,Italy,1,,104,94,77,442N,PASS,Cesena,06.97,,,0,100
+Olivier,Dall'Oglio,France,11,Nimes,110,125,75,442A,PASS,Montpellier,06.93,,,0,85
+Danny,Buijs,Netherlands,3,Feyenoord,120,125,75,433N,PASS,Groningen,7.97,,,0,85
+Alois,Schwartz,Germany,6,,0,115,75,442D,DRCT,Sandhausen,,,01.97,0,73
+Jimmy Floyd,Hasselbaink,Netherlands,3,Chelsea,100,105,75,CMSN,DRCT,Burton Albion,,,01.97,0,73
+Wim,De Decker,Belgium,0,,121,0,75,,,Deinze,,,,0,64
+Roberto,Cevoli,Italy,1,,50,102,72,352SW,DRCT,Renate,,,01.97,0,46
+Stefano,Vecchi,Italy,8,,70,101,71,433VA,DRCT,FeralpiSalò,,,01.97,0,46
+Antoine,Kombouaré,France,0,Nantes,60,160,70,442A,PASS,Nantes,08.97,,,0,90
+Jan,Vreman,Germany,24,,170,140,70,442A,CONT,De Graafschap,10.95,,,0,75
+Kees,van Wonderen,Netherlands,1,,160,130,70,433N,PASS,Go Ahead Eagles,01.97,,,0,80
+Maurice,Verberne,Netherlands,23,,140,120,70,433N,DRCT,MVV,10.95,,,0,80
+Gareth,Ainsworth,England,2,,100,120,70,442D,DRCT,Wycombe,,,01.97,0,45
+José Ramón,Sandoval,Spain,9,,0,115,70,442A,DRCT,Fuenlabrada,,,01.97,0,96
+Gary,Bowyer,England,7,,100,110,70,442N,PASS,Salford,,,01.97,0,56
+Derek,Adams,Scotland,9,,50,105,70,532A,PASS,,,,01.97,0,3
+Alberto,Colombo,Italy,2,,20,100,70,442A,PASS,Monopoli,,,01.97,0,74
+Rüdiger,Rehm,Germany,6,,0,100,70,CMSN,LONG,Ingolstadt,,,01.97,0,42
+Philippe,Montanier,France,2,Bordeaux,105,100,70,442N,CONT,Toulouse,04.95,,,0,75
+Christophe,Delmotte,France,1,,0,82,70,352SW,DRCT,Valenciennes,,,01.97,0,16
+Gary,Naysmith,Scotland,6,,50,80,70,DIAN,LONG,Edinburgh City,,,01.97,0,87
+Josep Lluís,Martí,Spain,3,Sporting Gijon,100,80,70,442N,CONT,Sporting Gijon,07.97,,,0,70
+Rogier,Meijer,Scotland,2,Glasgow Rangers,90,80,70,433N,DRCT,NEC,07.97,,,0,90
+Gaizka,Garitano,Spain,6,Real Sociedad,80,70,70,532N,LONG,Eibar,7.95,,,0,80
+Markus,Weinzierl,Germany,0,,70,60,70,,,Augsburg,,,,0,0
+Darrell,Clarke,England,10,Port Vale,100,0,70,,,Port Vale,03.84,,,0,100
+Jon,Brady,England,4,,0,0,70,,,Northampton,01.95,,,0,0
+Johnnie,Jackson,England,4,,100,0,70,,DRCT,Charlton,,,,0,0
+Ricardo Manuel,da Silva Sá Pinto,Portugal,0,,0,0,70,532N,PASS,Moreirense,,,,0,50
+Rui,Ferreira,Portugal,0,,0,0,70,532N,PASS,Feirense,07.97,,,0,65
+Carmine,Gautieri,Italy,6,,50,99,69,352SW,DRCT,,,,01.97,0,55
+Cristian,Bucchi,Italy,4,,100,98,68,442A,DRCT,Triestina,,,01.97,0,21
+Gennaro,Volpe,Italy,4,,130,97,67,352N,DRCT,Entella,,,01.97,0,39
+Dougie,Imrie,Scotland,2,,0,67,67,CMSN,PASS,Morton,,,01.97,0,88
+Dick,Lukkien,Netherlands,4,Groningen,120,130,65,433VA,PASS,Emmen,07.95,,,0,60
+Haritz,Mújika,France,4,,70,105,65,532A,CONT,Amorebieta,,,01.97,0,53
+Vincenzo,Vivarini,Italy,0,,110,93,63,DIAN,PASS,,,,01.97,0,13
+Vincenzo,Torrente,Italy,0,,30,91,61,352SW,LONG,Gubbio,,,01.97,0,57
+Henk,Fräser,Netherlands,2,,160,120,60,DIAN,CONT,Sparta,07.97,,,0,85
+Leonel,Pontes,Portugal,5,,0,110,60,532N,LONG,Covilhã,,,01.97,0,94
+Rubén,Torrecilla,Spain,7,,0,105,60,352SW,LONG,Granada,,,01.97,0,60
+Yves,Van Borm,Belgium,5,,0,105,60,CMSN,CONT,Knokke,,,01.97,0,8
+John,Coleman,England,8,,50,105,60,433VA,PASS,Accrington,,,01.97,0,80
+Guerino,Capretti,Germany,6,,0,100,60,433VA,CONT,Dresden,,,01.97,0,94
+Phil,Brown,England,9,,150,95,60,433VA,LONG,,,,01.97,0,85
+Pavel,Dotchev,Bulgaria,0,,130,95,60,AJAX,DRCT,Aue,,,01.97,0,25
+Michael,Duff,N.Ireland,2,,50,95,60,532A,CONT,Cheltenham,,,01.97,0,45
+Stephen,Crainey,Scotland,3,,150,90,60,AJAX,CONT,Fleetwood,,,01.97,0,61
+Simon,Weaver,England,3,,150,90,60,532VD,PASS,Harrogate,,,01.97,0,40
+Michael,Valkanis,Australia,6,,0,88,60,442A,LONG,Eupen,,,01.97,0,17
+Jagoba,Arrasate,Spain,5,Osasuna,90,80,60,442D,LONG,Osasuna,4.97,,,0,70
+David,Guion,France,3,Caen,45,75,60,442N,CONT,Bordeaux,06.97,,,0,70
+Nigel,Pearson,Scotland,3,Man Utd,80,0,60,,DRCT,Bristol C,,,,0,0
+Mark,Bonner,England,6,Derby,0,0,60,442N,PASS,Cambridge Utd,,,,0,0
+Ben,Garner,England,2,Liverpool,70,0,60,,PASS,Swindon,11.94,,,0,60
+Kieran,McKenna,Scotland,1,Ipswich,110,0,60,,PASS,Ipswich,12.94,,,0,60
+Karl,Robinson,England,10,Sunderland,0,0,60,,,Oxford,09.93,,,0,0
+Shota,Arveladze,England,1,Rangers,120,0,60,,DRCT,Hull,7.97,,,0,80
+Nathan,Jones,England,7,Charlton,100,0,60,,,,12.95,,,0,60
+Luigi,Fresco,Italy,3,,30,89,59,352N,PASS,Virtus Verona,,,01.97,0,0
+Walter,Novellino,Italy,8,,30,88,58,532N,CONT,,,,01.97,0,70
+Franco,Lerda,Italy,2,,120,87,57,CMSN,PASS,Pro Vercelli,,,01.97,0,63
+Edin,Terzic,Germany,1,Dortmund,140,130,125,,,,,,,0,0
+Jim,Goodwin,Eire,2,,150,115,55,433VA,PASS,,,,01.97,0,79
+Michele,Marcolini,Italy,0,,40,85,55,433VA,DRCT,AlbinoLeffe,,,01.97,0,43
+John,Yems,England,3,,100,80,55,DIAN,DRCT,Crawley,,,01.97,0,97
+Peter,Bosz,France,1,Lyon,50,60,55,442A,CONT,Lyon,12.96,,,0,60
+Bruno,Génésio,France,15,Marseille,60,50,55,442D,PASS,Rennes,06.97,,,0,70
+Massimiliano,Canzi,Italy,3,,130,84,54,442N,DRCT,Olbia,,,01.97,0,75
+Ivan,Maraia,Italy,9,,20,83,53,CMSN,PASS,Pontedera,,,01.97,0,35
+Nicolas,Usaï,France,8,Nimes,70,90,50,442N,DRCT,Nimes,,,,0,90
+James,Rowberry,Wales,0,,100,90,50,AJAX,PASS,Newport,,,01.97,0,50
+Luca,Prina,Italy,8,,50,80,50,442A,DRCT,Pro Patria,,,01.97,0,28
+Michael,O'Neill,England,2,,0,0,50,442A,DRCT,Stoke,01.98,,,0,0
+David,Martindale,Scotland,2,,0,0,50,,,Livingston,,,,0,0
+Keith,Hill,England,1,N.Forest,100,0,50,,,Scunthorpe,,,,0,0
+John,Hughes,Scotland,1,,0,0,50,,,Dunfermline,,,,0,0
+Stephen,Swift,Scotland,3,,0,0,50,,,Stenhousemuir,,,,0,0
+Martin,Rennie,Scotland,2,,0,0,50,,,Falkirk,04.97,,,0,0
+Giuseppe,Galderisi,Italy,6,,30,79,49,442N,LONG,Mantova,,,01.97,0,77
+Jocelyn,Gourvennec,France,4,Le Mans,45,22,48,532N,PASS,Lille,06.97,,,0,80
+Federico,Guidi,Italy,5,,30,77,47,DIAN,CONT,Teramo,,,01.97,0,6
+Agenore,Maurizi,Italy,9,,30,76,46,532VD,PASS,Grosseto,,,01.97,0,77
+Alessandro,Dal Canto,Italy,7,,30,75,45,442A,LONG,Viterbese,,,01.97,0,24
+Franck,Haise,France,1,Lille,35,70,45,442N,CONT,Lens,06.97,,,0,75
+Albert,Cartier,Romania,3,,35,60,42,532A,PASS,Nancy,06.94,,,0,80
+Ian,Baraclough,England,1,,60,103,40,CMSN,PASS,,01.96,N.Ireland,,0,67
+Marinus,Dijkhuizen,Netherlands,7,PSV,95,100,40,,,Excelsior,07.97,,,0,70
+Peter,Murphy,Eire,7,,50,85,40,532A,DRCT,Annan,,,01.97,0,29
+Stéphane,Moulin,France,0,Caen,30,80,40,442A,PASS,Caen,10.97,,,0,55
+Hakan,Ericson,Sweden,1,,80,78,40,433N,LONG,,01.96,Faroe Islands,,0,67
+Gavin,Price,Scotland,3,,100,75,40,442A,CONT,,,,01.97,0,64
+Julien,Stéphan,France,2,Strasbourg,70,65,40,433N,CONT,Strasbourg,04.95,,,0,50
+Julio,Velázquez,Spain,9,,60,50,40,442D,LONG,Alaves,07.97,,,0,80
+Alessio,Lisci,Spain,17,,30,40,40,442D,DRCT,Levante,7.97,,,0,70
+Neil,Critchley,Northern Ireland,0,Sheff Wed,0,0,40,,DRCT,Blackpool,7.97,,,0,50
+Stevie,Crawford,Scotland,1,,0,0,40,,,East Fife,10.96,,,0,0
+Darren,Young,England,2,Grimsby,0,0,40,,,Stirling,,,,0,0
+Pasquale,Arleo,Italy,3,,30,78,38,433VA,CONT,Potenza,,,01.97,0,19
+Paul,Simpson,England,5,,0,0,35,,,Carlisle,,,,0,0
+Steve,Morison,England,4,,0,0,35,,,Cardiff,,,,0,0
+Stéphane,Huet,Belgium,6,,0,100,30,532N,PASS,Vise,,,01.97,0,52
+Gabriele,Baldassarri,Italy,1,,54,86,30,DIAN,LONG,Fermana,06.97,,,0,100
+Kevin,Thomson,Scotland,8,,50,75,30,CMSN,CONT,Kelty Hearts,,,01.97,0,19
+Sébastien,Desabre,France,2,Sochaux,20,30,30,442D,PASS,Niort,06.95,,,0,65
+Mehdi,Nafti,Spain,5,,40,30,30,442N,LONG,Leganes,7.97,,,0,40
+Christophe,Pélissier,France,6,Guingamp,34,10,30,532N,DRCT,Lorient,06.91,,,0,90
+Callum,Davidson,Scotland,2,Dundee Utd,0,0,30,,,St.Johnstone,,,,0,0
+Scott,Parker,England,6,Norwich,70,0,30,,,,09.94,,,0,0
+Brian,Reid,Scotland,0,,0,0,30,,,Albion Rovers,1.96,,,0,0
+Danny,Cowley,England,1,Tottenham,80,0,30,,,Portsmouth,02.95,,,0,70
+Brian,Rice,Scotland,1,,0,0,30,,,Alloa,02.96,,,0,0
+Matt,Gray,England,4,,50,90,25,433VA,PASS,Sutton,,,01.97,0,24
+Jim,McInally,Scotland,2,,150,85,25,532VD,PASS,,,,01.97,0,15
+Omar,Daf,Bosnia,2,Sochaux,50,40,25,442N,CONT,Sochaux,06.95,,,0,60
+Christoph,Dabrowski,Germany,0,,40,30,25,,,Hannover,,,,0,0
+Pascal,Dupraz,France,5,Saint-Étienne,14,40,24,442A,PASS,Saint-Étienne,06.97,,,0,90
+Philippe,Hinschberger,France,10,Lille,10,13,21,442D,PASS,Amiens,06.93,,,0,55
+Billy,Dodds,Scotland,3,,0,0,20,,,Inverness Caledonian Thistle,5.96,,,0,0
+Stewart,Petrie,Scotland,8,,100,80,15,451D,LONG,,,,01.97,0,93
+Lieven,Gevaert,Belgium,3,,0,74,15,352N,DRCT,Mandel Utd,,,01.97,0,77
+Bruno,Irles,France,5,Nancy,13,13,14,532N,PASS,Troyes,06.92,,,0,60
+Rob,Edwards,Wales,1,,10,95,10,442A,LONG,Luton,,,01.97,0,91
+Robbie,Stockdale,England,4,,0,0,10,,,Rochdale,11.94,,,0,0
+Richie,Wellens,England,3,,0,0,10,,,Leyton Orient,,,,0,0
+Robbie,Neilson,Scotland,2,,0,0,10,,,Hearts,,,,0,0
+Ryan,Lowe,England,2,,0,0,10,,,Preston,12.94,,,0,0
+Wayne,Brown,England,2,,0,0,10,,,Colchester,01.95,,,0,0
+Matt,Taylor,England,2,Stoke,0,0,10,,,Exeter,06.95,,,0,0
+Olivier,Pantaloni,France,3,,4,7,8,433N,PASS,Ajaccio,06.95,,,0,75
+Gérald,Baticle,France,1,,4,3,6,442N,LONG,Angers,06.97,,,0,55
+Will,Still,Belgium,1,Reims,0,140,0,,,,,,,0,0
+António,Oliveira,Portugal,7,,0,122,0,442N,LONG,Benfica B,,,01.97,0,57
+Marco,Ban,Germany,4,,0,110,0,433N,PASS,,,,01.97,0,97
+Drazen,Brncic,Croatia,9,,0,70,0,442N,PASS,Liège,,,01.97,0,46
+Owen,Coyle,Scotland,0,,0,0,0,,,Queen's Park,,,,0,0
+Mark,McGhee,Scotland,1,Dundee,0,0,0,,,Dundee,06.97,,,0,0
+Vítor,Campelos,Portugal,0,,0,0,0,,,Chaves,,,,0,0
+Robert,Xavier,Belgium,0,,0,0,0,,,La Louvière,10.97,,,0,0
+Malky,Mackay,Scotland,0,,0,0,0,,,Ross County,,,,0,0
+Graham,Alexander,Finland,10,,0,0,0,,,Motherwell,02.98,,,0,0
+Maurice,Ross,Scotland,0,,0,0,0,,,Cowdenbeath,,,,0,0
+Steve,Cotterill,England,0,,0,0,0,,,Shrewsbury,,,,0,0
+Tony,Mowbray,England,10,,0,0,0,,PASS,Blackburn,10.96,,,0,75
+Vincent,Euvrard,Belgium,0,,0,0,0,,,RWDM,06.97,,,0,0
+Stijn,Stijnen,Belgium,0,,0,0,0,,,Patro Eisden,,,,0,0
+Gary,Irvine,Scotland,1,,0,0,0,,,Forfar,07.97,,,0,0
+Jamie,Hamill,Scotland,0,,0,0,0,,,Stranraer,,,,0,0
+Dick,Campbell,Scotland,0,,0,0,0,,,Arbroath,08.97,,,0,0
+Steven,Schumacher,England,0,,0,0,0,,,Plymouth,5.97,,,0,0
+Lee,Bullen,Scotland,0,,0,0,0,,,Ayr Utd,,,,0,0
+Paul,Ince,England,1,,0,0,0,,,Reading,07.97,,,0,0
+Leam,Richardson,England,0,,0,0,0,,,Wigan,11.95,,,0,0
+José,Mota,Portugal,0,,0,0,0,,,Leixões,,,,0,0
+Sjors,Ultee,Netherlands,0,,0,0,0,,,Fortuna Sittard,12.97,,,0,0
+Mark,Hughes,England,1,,0,0,0,,,Bradford,,,,0,0
+Joey,Barton,England,0,Q.P.R.,0,0,0,,,Bristol Rovers,5.96,,,0,0
+Pako,Ayestarán,Portugal,0,,0,0,0,,,Tondela,,,,0,0
+Álvaro,Pacheco,Portugal,0,,0,0,0,,,,,,,0,0
+Frank,Wormuth,Netherlands,1,,0,0,0,,,Heracles,07.96,,,0,60
+Russell,Martin,Denmark,1,Liverpool,0,0,0,,PASS,Swansea,02.96,,,0,100
+Ian,Evatt,England,8,Bolton,0,0,0,442N,PASS,Bolton,8.95,,,0,100
+Stuart,Taylor,Scotland,0,,0,0,0,,,Hamilton,07.97,,,0,0
+Thomas,Frank,Denmark,2,,125,125,110,,,Brentford,11.97,,,0,0
+Carlos,Corberán,England,0,,0,0,0,,,Huddersfield,,,,0,0
+Pierpaolo,Bisoli,Italy,0,,0,0,0,,,Cosenza,07.97,,,0,0
+Joseph,Oosting,Netherlands,0,Vitesse,0,0,0,,,RKC,12.97,,,0,0
+Filipe André,Paula da Rocha,Portugal,1,,0,0,0,,,Penafiel,07.97,,,0,0
+Graeme,Lee,England,1,Hartlepool,0,0,0,,,Hartlepool,,,,0,0
+Wim,Jonk,Netherlands,0,,0,0,0,,,Volendam,,,,0,60
+Jack,de Gier,Netherlands,1,,0,0,0,,,Den Bosch,07.96,,,0,70
+Michele,Santoni,Netherlands,1,,0,0,0,,,Dordrecht '90,07.96,,,0,55
+Rob,Penders,Netherlands,0,,0,0,0,,,Eindhoven,07.97,,,0,0
+Micky,Mellon,Eire,1,Liverpool,0,0,0,,,Tranmere,8.96,,,0,0
+Thierry,Laurey,France,1,,0,0,0,,,Paris FC,,,,0,0
+Andries,Jonker,Netherlands,0,Utrecht,0,0,0,,,Telstar,07.97,,,0,80
+Sven,Swinnen,Netherlands,1,PSV,0,0,0,433N,DRCT,Helmond Sport,07.96,,,0,60
+Jos,Luhukay,Netherlands,1,Sparta,0,0,0,433N,PASS,VVV,07.96,,,0,70
+Karel,Keleman,Belgium,7,,0,0,0,532N,DRCT,Dessel,,,,0,0
+Nigel,Clough,England,0,,0,0,0,,,Mansfield,10.96,,,0,0
+Derek,McInnes,Scotland,0,,0,0,0,,,Kilmarnock,,,,0,0
+Neil,Harris,England,0,,0,0,0,,,Gillingham,8.96,,,0,0
+Michael,Flynn,England,0,,0,0,0,,,Walsall,07.97,,,0,0
+Francisco,Garcia,Belgium,0,,0,0,0,,,Union,,,,0,0
+Ian,McCall,Scotland,2,Airdrie,0,0,0,,,Partick Thistle,7.97,,,0,0
+Gary,McSheffrey,England,1,,0,0,0,,,Doncaster,,,,0,0
+Gary,Rowett,England,0,West Ham,0,0,0,,,Millwall,05.97,,,0,0
+Carlos,Carvalhal,Spain,1,,0,0,0,,,Braga,01.98,,,0,0
+Wullie,Gibson,Scotland,5,,0,0,0,442A,CONT,,,,01.97,0,28
+Paulo Sérgio,Bento Brito,Portugal,0,,0,0,0,,,Portimonense,,,,0,0
+Dominik,Thalhammer,Belgium,2,,0,0,0,,,Cercle Brugge,10.97,,,0,0
+Stefan,Kuntz,Germany,5,,0,0,0,,,,,,,0,0
+Gus,Poyet,Uruguay,5,,0,0,0,,,,,Greece,,0,0
+Edward,Iordanescu,Romania,0,,0,0,0,,,,,Romania,,0,0
+Serghei,Clescenco,Moldova,0,,0,0,0,,,,,Moldova,,0,0
+Georgi,Kondratiev,Bielorussia,0,,0,0,0,,,,,Bielorussia,,0,0
+Valery,Karpin,Russia,5,,0,0,0,,,,,Russia,,0,0
+Dragan,Stojkovic,Yugoslavia,0,,0,0,0,,,,,Yugoslavia,,0,0
+Willy,Sagnol,France,0,,0,0,0,,,,,Georgia,,0,0
+Thomas,Haberli,Switzerland,0,,0,0,0,,,,,Estonia,,0,0
+Stale,Solbakken,Norway,0,,0,0,0,,,,,Norway,,0,0
+Gianni,De Biasi,Italy,0,,0,0,0,,,,,Azerbaijan,,0,0
+Filipe Gonçalo,Pinto Martins,Portugal,0,,0,0,0,,,Casa Pia,,,,0,0
+Dainis,Kazakevics,Latvia,0,,0,0,0,,,,,Latvia,,0,0
+Matjaz,Kek,Slovenia,0,,0,0,0,,,,,Slovenia,,0,0
+Marco,Rossi,Italy,0,Roma,0,0,0,,,,,Hungary,,0,0
+Jaroslav,Silhavy,Czech Republic,0,,0,0,0,,,,,Czech Republic,,0,0
+Zlatko,Dalic,Croatia,0,,0,0,0,,,,,Croatia,,0,0
+Janne,Andersson,Sweden,0,,0,0,0,,,,,,,0,0
+Luc,Holtz,Luxembourg,0,,0,0,0,,,,,Luxembourg,,0,0
+Koldo,Alvarez,Andorra,0,,0,0,0,,,,,Andorra,,0,0
+Hakime,Moriyasu,Japan,5,,0,0,0,,,,,Japan,,0,0
+Aleksandar,Jankovic,Yugoslavia,0,,0,0,0,,,,,China,,0,0
+Rui Pedro,Silva,Portugal,0,,0,0,0,,,Famalicão,,,,0,0
+Danny,Lennon,Scotland,0,,0,0,0,,,Clydebank,07.97,,,0,0
+Stephen,Robinson,Scotland,1,,0,0,0,,,St.Mirren,,,,0,0
+Gregg,Berhalter,USA,8,,0,0,0,,,,,USA,,0,0
+Aliou,Cisse,Senegal,0,,0,0,0,,,,,Senegal,,0,0
+Jean-Louis,Gasset,France,0,,0,0,0,,,,,Ivory Coast,,0,0
+Engin,Firat,Turkey,0,,0,0,0,,,,,Kenya,,0,0
+Jose,Peseiro,Portugal,0,,0,0,0,,,,,Nigeria,,0,0
+Rigobert,Song,Cameroon,0,Galatasaray,0,0,0,,,,,Cameroon,,0,0
+Rui,Vitoria,Portugal,0,,0,0,0,,,,,Egypt,,0,0
+Chris,Hughton,Eire,0,,0,0,0,,,,,Ghana,,0,0
+Gregoire,Vanderidt,Belgium,2,,0,0,0,532N,PASS,Beerschot,01.97,,,0,30
+Bernd,Hollerbach,Netherlands,0,,0,0,0,,,Sint-Truiden,06.97,,,0,0
+Karim,Belhocine,Belgium,0,,0,0,0,442N,PASS,Kortrijk,,,,0,0
+Stevie,Farrell,Scotland,1,,0,0,0,,,Dumbarton,5.96,,,0,0
+Michael,Appleton,England,7,,0,0,0,,LONG,Lincoln,10.95,,,0,0
+Luka,Elsner,Belgium,5,,0,0,0,433N,PASS,Standard Liege,10.97,,,0,20
+Yves,Vanderhaeghe,Netherlands,5,Club Brugge,0,0,0,,,Oostende,,,,0,0
+Daniele,De Rossi,Italy,1,Roma,0,0,0,,,Roma,,,,0,0
+Emre,Belezoglu,Turkey,1,,0,0,0,,,,,,,0,0
+Sergen,Yalcin,Turkey,5,Besiktas,0,0,0,,,,,,,0,0
+Jorge,Jesus,Portugal,15,Porto,0,0,0,,,Fenerbahce,,,,0,0
+Pete,Wild,England,0,,0,0,0,,,Barrow,,,,0,0
+Urs,Fischer,Switzerland,10,FC Zurich,120,120,0,,,Union Berlin,,,,0,0
+Pepe,Mel,Spain,0,,0,0,0,,,Las Palmas,,,,0,0
+Zinedine,Zidane,France,5,Real Madrid,190,185,170,,,,,,,0,0
+Kjetil,Knutsen,Norway,3,,120,120,0,,,Bodo/Glimt,,,,0,0
+Nuno,Espírito Santo,Portugal,15,Porto,140,0,0,433N,PASS,N.Forest,07.97,,01.97,0,94
+Jon,Dahl Tomasson,Denmark,3,Milan,125,125,110,,PASS,,11.97,Sweden,,,

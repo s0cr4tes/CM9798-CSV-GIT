@@ -1,0 +1,8 @@
+# Ignore all files
+*
+
+# But not these files...
+!*.csv
+
+# Also, don't ignore this .gitignore file itself
+!.gitignore
